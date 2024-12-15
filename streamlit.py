@@ -3,7 +3,7 @@ import numpy as np
 import altair as alt
 import pandas as pd
 
-st.set_page_config(page_title="Υπόδειγμα Solow - Εμπλουτισμένη Έκδοση", layout="centered")
+st.set_page_config(page_title="Υπόδειγμα Solow ", layout="centered")
 
 st.title("Διαδραστική Εξερεύνηση του Υποδείγματος Solow")
 
